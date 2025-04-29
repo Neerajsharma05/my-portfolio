@@ -30,7 +30,7 @@ var arr = [
     {
         ProjectImage:"IMG/TEMPRATURE.png",
         link:"https://neerajsharma05.github.io/Temperature-convert-/",
-        name:"tamperature Converter",
+        name:"Temperature Converter",
         year:2025
     },
     
